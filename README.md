@@ -1,7 +1,7 @@
 Zadaci za vježbu NTOOP
 ======================
 
-Laboratorijske vježbe 4
+Laboratorijske vježbe 3
 -----------------------
 
 **Zadatak 1**. Napisati program koji će sa standardnog ulaza učitati redak
